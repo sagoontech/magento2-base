@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="SagoonTech_Base::base" title="Sagoon Tech" module="SagoonTech_Base" sortOrder="50" dependsOnModule="SagoonTech_Base" resource="SagoonTech_PriceDecmial::sagoontech_pricedecimal"/>
+    </menu>
+</config>

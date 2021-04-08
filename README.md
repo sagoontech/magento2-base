@@ -1,1 +1,3 @@
-# magento2-base
+# Sagoon Tech Base
+
+Required for Sagoon Tech Extensions
